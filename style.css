@@ -1,0 +1,24 @@
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: grey;
+}
+
+.title {
+    font-size: 50px;
+    text-align: center;
+    font-weight: 200px;
+}
+
+.recipes-list {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 4px auto;
+    text-align: center;
+}
+
+.recipe {
+    display: inline-block;
+    background-color: whitesmoke;
+    padding: 8px 24px;
+    font-size: 20px;
+}
